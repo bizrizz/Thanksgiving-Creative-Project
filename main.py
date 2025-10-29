@@ -87,7 +87,7 @@ level_collectibles = {
     3: {
         'name': 'Water Drop Spirit',
         'color': light_blue,
-        'message': "We will wrap our minds as one and thank/honor\nThe Waters.\nThat still they wipe away what is bad on the earth.\nAnd also, they quench the thirst of the plants, animals, and people.\nSo let it be in our minds.",
+        'message': "We will wrap our minds as one and thank/honor\nThe Waters and everything that lives within them.\nThat still they wipe away what is bad on the earth.\nAnd also, they quench the thirst of the plants, animals, and people,\nand give themselves to sustain us.\nSo let it be in our minds.",
         'symbol': '💧'
     },
     4: {
